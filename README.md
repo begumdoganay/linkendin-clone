@@ -1,8 +1,8 @@
-#LinkedIn Clone
+LinkedIn Clone
 
 
 
-#Bu proje, LinkedIn benzeri bir sosyal ağ platformunun temel özelliklerini içeren bir klondur. Proje Bootstrap kullanılarak tasarlanmış ve geliştirilmiştir.
+Bu proje, LinkedIn benzeri bir sosyal ağ platformunun temel özelliklerini içeren bir klondur. Proje Bootstrap kullanılarak tasarlanmış ve geliştirilmiştir.
 
 📌 Proje Bilgileri
 
